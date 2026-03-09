@@ -28,9 +28,9 @@ Tìm hiểu,đọc:
 |---|---|---|---|
 | Git basics | roadmap.sh | [ ] | |
 | Scene & Node trong Godot | Godot docs | [ ] |Hiểu cách tổ chức object trong game |
+
 Thực hành:
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
-|----------|---------------|------------|--------|
 |Tạo project Godot đầu tiên + scene đơn giản|tạo 1 sence có 1 player| [ ]        |        |
 Tuần 2:
 Tìm hiểu,đọc:
