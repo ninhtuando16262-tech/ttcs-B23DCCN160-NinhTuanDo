@@ -24,14 +24,18 @@ Xây dựng game khủng long 2D đơn giản sử dụng godot engine
 4.Kế hoạch thực hiện 08 tuần
 Tuần 1:
 Tìm hiểu,đọc:
+
 | Nội dung cần đọc / tìm hiểu | Nguồn tham khảo | Trạng thái | Ghi chú / Điều đã hiểu |
 |---|---|---|---|
 | Git basics | roadmap.sh | [ ] | |
 | Scene & Node trong Godot | Godot docs | [ ] |Hiểu cách tổ chức object trong game |
 
 Thực hành:
+
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
-|Tạo project Godot đầu tiên + scene đơn giản|tạo 1 sence có 1 player| [ ]        |        |
+|----------|---------------|------------|--------|
+| Tạo project Godot đầu tiên + scene đơn giản | tạo 1 scene có 1 player | [ ] | |
+
 Tuần 2:
 Tìm hiểu,đọc:
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
@@ -49,13 +53,16 @@ Tìm hiểu,đọc:
 Thực hành:
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
-|          |               | [ ]        |        ||
+|          |               | [ ]        |        |
 Tuần 4:
 Tìm hiểu,đọc:
+
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
 |          |      | [ ]        |        |
+
 Thực hành:
+
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
 |          |               | [ ]        |        |
