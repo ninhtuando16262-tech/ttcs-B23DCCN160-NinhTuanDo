@@ -49,76 +49,80 @@ Tìm hiểu,đọc:
 
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
-|          |      | [ ]        |        |
+|Input trong Godot (keyboard control)|Godot docs| [ ]        |Hiểu cách sử lý phím cơ bản|
 
 Thực hành:
 
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
-|          |               | [ ]        |        |
+|Tạo nhân vật Player có thể di chuyển trái phải|Player control hoạt động| [ ]        |        |
 
 Tuần 3:
 Tìm hiểu,đọc:
 
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
-|          |      | [ ]        |        |
+|CharacterBody2D / KinematicBody,Gravity và Jump mechanic|Godot docs,Youtube| [ ]        |        |
 
 Thực hành:
 
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
-|          |               | [ ]        |        |
+|Thêm chức năng nhảy cho Player|Player có thể nhảy được,có animation| [ ]        |        |
 
 Tuần 4:
 Tìm hiểu,đọc:
 
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
-|          |      | [ ]        |        |
+|Collision,Arena|Godot docs,Youtube| [ ]        |        |
 
 Thực hành:
 
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
-|          |               | [ ]        |        |
+|Tạo vật cản, va chạm|nhân vật die khi gặp vật cản| [ ]        |        |
 
 Tuần 5:
 Tìm hiểu,đọc:
 
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
-|          |      | [ ]        |        |
+|Timer và spawn object|Godot docs,Youtube| [ ]        |        |
 
 Thực hành:
 
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
-|          |               | [ ]        |        |
+|Tạo hệ thống spawn obstacle,Tính điểm|Vật cản xuât hiện,Điểm tăng dần theo thời gian| [ ]        |        |
 
 Tuần 6:
 Tìm hiểu,đọc:
 
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
-|          |      | [ ]        |        |
+|UI,Scene Manager|Godot docs,Youtube| [ ]        |        |
 
 Thực hành:
 
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
-|          |               | [ ]        |        |
+|Có bảng Menu hoàn chỉnh|Có bảng Menu hoàn chỉnh| [ ]        |        |
 
 Tuần 7:
-Tìm hiểu,đọc:
+Thực hành:
 
-| Nội dung | Nguồn | Trạng thái | Ghi chú |
-|----------|------|------------|--------|
-|          |      | [ ]        |        |
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+| Hoàn thiện docs/ (ghi chú học tập) | Tài liệu mô tả quá trình học | [ ] | |
+| Hoàn thiện src/project/ | Source code game hoàn chỉnh | [ ] | |
+| Viết README tổng kết | README mô tả project | [ ] | |
+
+Tuần 8:
 
 Thực hành:
 
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
-|          |               | [ ]        |        |
+| Demo / báo cáo cuối kỳ | Demo URL / Report | [ ] | |
 
