@@ -18,18 +18,18 @@ Link repository:
 -Em có thể học kĩ năng nào trong 8 tuần này là:Học cơ bản về Godot và Làm các demo nhỏ
 
 3. Đăng ký chủ đề học tập
-Định hướng:
--Cải thiện củng cố kỹ năng đang có
-kỹ năng muốn học, cải thiện:
-  1.Object-Oriented Programming (OOP) để tổ chức logic cho game
-  2.Phát triển game 2D với Godot Engine:
-    -xử lý input người chơi
-     -quản lý nhân vật 
-    -xử lý va chạm và tương tác trong game
-3.Git & GitHub để quản lý mã nguồn và theo dõi quá trình phát triển dự án.
-Nội dung áp dụng cụ thể:
-Xây dựng game khủng long 2D đơn giản sử dụng godot engine
-4.Kế hoạch thực hiện 08 tuần
+Định hướng:  
+-Cải thiện củng cố kỹ năng đang có  
+kỹ năng muốn học, cải thiện:  
+  1.Object-Oriented Programming (OOP) để tổ chức logic cho game    
+  2.Phát triển game 2D với Godot Engine:  
+     -xử lý input người chơi     
+     -quản lý nhân vật  
+     -xử lý va chạm và tương tác trong game  
+3.Git & GitHub để quản lý mã nguồn và theo dõi quá trình phát triển dự án.  
+Nội dung áp dụng cụ thể:  
+Xây dựng game khủng long 2D đơn giản sử dụng godot engine  
+4.Kế hoạch thực hiện 08 tuần  
 Tuần 1:
 Tìm hiểu,đọc:
 
@@ -44,24 +44,32 @@ Thực hành:
 |----------|---------------|------------|--------|
 | Tạo project Godot đầu tiên + scene đơn giản | tạo 1 scene có 1 player | [ ] | |
 
-Tuần 2:
-Tìm hiểu,đọc:
+Tuần 2:  
+Tìm hiểu,đọc:  
+
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
 |          |      | [ ]        |        |
+
 Thực hành:
-| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
-|----------|---------------|------------|--------|
-|          |               | [ ]        |        
-Tuần 3:
-Tìm hiểu,đọc:
-| Nội dung | Nguồn | Trạng thái | Ghi chú |
-|----------|------|------------|--------|
-|          |      | [ ]        |        |
-Thực hành:
+
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
 |          |               | [ ]        |        |
+
+Tuần 3:
+Tìm hiểu,đọc:
+
+| Nội dung | Nguồn | Trạng thái | Ghi chú |
+|----------|------|------------|--------|
+|          |      | [ ]        |        |
+
+Thực hành:
+
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|          |               | [ ]        |        |
+
 Tuần 4:
 Tìm hiểu,đọc:
 
@@ -74,30 +82,43 @@ Thực hành:
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
 |          |               | [ ]        |        |
+
 Tuần 5:
 Tìm hiểu,đọc:
+
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
 |          |      | [ ]        |        |
+
 Thực hành:
+
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
 |          |               | [ ]        |        |
+
 Tuần 6:
 Tìm hiểu,đọc:
+
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
 |          |      | [ ]        |        |
+
 Thực hành:
+
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
 |          |               | [ ]        |        |
+
 Tuần 7:
 Tìm hiểu,đọc:
+
 | Nội dung | Nguồn | Trạng thái | Ghi chú |
 |----------|------|------------|--------|
 |          |      | [ ]        |        |
+
 Thực hành:
+
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 |----------|---------------|------------|--------|
 |          |               | [ ]        |        |
+
