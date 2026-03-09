@@ -2,13 +2,21 @@
 Họ tên:Ninh Tuấn Độ
 MSSV:B23DCCN160
 Lớp:CN06-B
+
 Email:ninhtuando16262@gmail.com
+
 GitHub username:ninhtruando16262-tech
+
 Link repository:
+
 2.Định hướng & Mục tiêu
+
 -Vai trò muốn làm sau khi ra trường:Em muốn trở thành Game Developer, tập trung vào việc phát triển gameplay và xây dựng logic cho trò chơi.Cụ thể là làm việc với game engine Godot,Unity để tạo các game 2D
+
 -Kĩ năng còn thiếu:Kiến thức về Game Engine, Hiểu về Game Physics và Game Mechanics, Kỹ năng thiết kế và tổ chức project game
+
 -Em có thể học kĩ năng nào trong 8 tuần này là:Học cơ bản về Godot và Làm các demo nhỏ
+
 3. Đăng ký chủ đề học tập
 Định hướng:
 -Cải thiện củng cố kỹ năng đang có
