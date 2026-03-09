@@ -27,4 +27,62 @@ Tìm hiểu,đọc:
 | Nội dung cần đọc / tìm hiểu | Nguồn tham khảo | Trạng thái | Ghi chú / Điều đã hiểu |
 |---|---|---|---|
 | Git basics | roadmap.sh | [ ] | |
-| Game loop | docs | [ ] | |
+| Scene & Node trong Godot | Godot docs | [ ] |Hiểu cách tổ chức object trong game |
+Thực hành:
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|Tạo project Godot đầu tiên + scene đơn giản|tạo 1 sence có 1 player| [ ]        |        |
+Tuần 2:
+Tìm hiểu,đọc:
+| Nội dung | Nguồn | Trạng thái | Ghi chú |
+|----------|------|------------|--------|
+|          |      | [ ]        |        |
+Thực hành:
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|          |               | [ ]        |        
+Tuần 3:
+Tìm hiểu,đọc:
+| Nội dung | Nguồn | Trạng thái | Ghi chú |
+|----------|------|------------|--------|
+|          |      | [ ]        |        |
+Thực hành:
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|          |               | [ ]        |        ||
+Tuần 4:
+Tìm hiểu,đọc:
+| Nội dung | Nguồn | Trạng thái | Ghi chú |
+|----------|------|------------|--------|
+|          |      | [ ]        |        |
+Thực hành:
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|          |               | [ ]        |        |
+Tuần 5:
+Tìm hiểu,đọc:
+| Nội dung | Nguồn | Trạng thái | Ghi chú |
+|----------|------|------------|--------|
+|          |      | [ ]        |        |
+Thực hành:
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|          |               | [ ]        |        |
+Tuần 6:
+Tìm hiểu,đọc:
+| Nội dung | Nguồn | Trạng thái | Ghi chú |
+|----------|------|------------|--------|
+|          |      | [ ]        |        |
+Thực hành:
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|          |               | [ ]        |        |
+Tuần 7:
+Tìm hiểu,đọc:
+| Nội dung | Nguồn | Trạng thái | Ghi chú |
+|----------|------|------------|--------|
+|          |      | [ ]        |        |
+Thực hành:
+| Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
+|----------|---------------|------------|--------|
+|          |               | [ ]        |        |
